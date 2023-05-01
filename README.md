@@ -1,6 +1,7 @@
 #Analysis of California Housing Prices Dataset using Python
 
 The main aim of the project was to perform Exploratory Data Analysis on the California Housing Dataset.
+
 [Analysis of California Housing Prices Dataset](https://github.com/ukishore33/California-Housing-Prices-Project/blob/main/California%20Housing%20Prices%20Dataset.ipynb)
 
 Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and imputed the missing values with the mean value using the fillna() function.
