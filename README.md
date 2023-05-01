@@ -1,3 +1,7 @@
+- U Kishore
+- B.com
+- Data Analyst
+
 # Analysis of California Housing Prices Dataset using Python
 
 The main aim of the project was to perform Exploratory Data Analysis on the California Housing Dataset.
