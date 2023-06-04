@@ -15,3 +15,6 @@ While plotting Median income against its frequency, it was right skewed which me
 While plotting housing median age column against its frequency, some of the outliers were seen rarely, no abnormal distribution or skewness were noticed and that indicates the data is distributed equally.
 
 There is a positive correlation between median income and median house value. This means that as the median income of a neighborhood increases, the median house value also tends to increase. 
+
+The data of the project file is attached in the link below.
+[Dataset](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/housing.xlsx)
