@@ -6,7 +6,7 @@
 
 The main aim of the Project was to perform Exploratory Data Analysis on the California Housing Dataset.
 
-[Analysis of California Housing Prices Dataset](https://github.com/ukishore33/California-Housing-Prices-Project/blob/main/California%20Housing%20Prices%20Dataset.ipynb)
+[Analysis of California Housing Prices Dataset](https://github.com/ukishore33/Minicapstone-Project-on-California-Housing-Prices-Dataset/blob/main/The%20project%20file.ipynb)
 
 Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and imputed the missing values with the mean value using the fillna() function.
 
