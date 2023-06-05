@@ -19,3 +19,12 @@ There is a positive correlation between median income and median house value. Th
 The data of the project file is attached in the link below.
 
 [Dataset](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/housing.xlsx)
+
+The new data which is created in project that is attached in link below contain a only the data which is related to the location near ocean proximity
+
+[Dataset near ocean](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/dno.csv)
+
+The new dataset attached in link below contain a new column bedrooms according to sizes.
+
+[Dataset with Bedroom size](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/db_tb.csv)
+
