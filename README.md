@@ -24,7 +24,7 @@ The new data which is created in project that is attached in link below contain 
 
 [Dataset near ocean](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/dno.csv)
 
-The new dataset attached in link below contain a new column bedrooms according to sizes.
+The new dataset attached in link below contain a new column bedrooms according to their sizes.
 
 [Dataset with Bedroom size](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python/blob/main/db_tb.csv)
 
